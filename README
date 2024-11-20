@@ -1,0 +1,14 @@
+A reddit clone attempt, as walked through by Ben Awad,
+
+Teachnologies used:
+
+React
+typescript
+GraphQL
+URQL/Apollo
+Node.js
+ProstgreSQL
+MikroORM/TypeORM
+Redis
+Next.js
+TypeGraphQL
